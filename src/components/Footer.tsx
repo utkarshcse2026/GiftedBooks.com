@@ -27,7 +27,7 @@ export function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-700 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p>&copy; 2024 GiftedBooks. All rights reserved.</p>
+          <p>&copy; 2025 Aggarwal Industries. All rights reserved.</p>
           <div className="flex space-x-4 mt-4 md:mt-0">
             <a href="#" className="hover:text-[#1a73e8]"><FaFacebook size={24} /></a>
             <a href="#" className="hover:text-[#1a73e8]"><FaTwitter size={24} /></a>

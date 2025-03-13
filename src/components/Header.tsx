@@ -34,7 +34,7 @@ export function Header() {
           </nav>
 
           <div className="flex items-center space-x-4">
-            <span className="text-gray-800">Welcome, vish.adarsh01@gmail.com</span>
+            <span className="text-gray-800">Welcome, User</span>
             <Button className="bg-[#1a73e8] hover:bg-[#1557b0]">
               Logout
             </Button>
