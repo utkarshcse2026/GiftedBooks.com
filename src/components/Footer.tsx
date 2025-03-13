@@ -21,7 +21,6 @@ export function Footer() {
               <h4 className="font-semibold mb-2">Contact</h4>
               <ul className="space-y-2">
                 <li>contact@giftedbooks.com</li>
-                <li>(123) 456-7890</li>
               </ul>
             </div>
           </div>
